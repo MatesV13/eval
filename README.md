@@ -1,5 +1,6 @@
-# Komentar: eval je folder koji je korišten, s nekim rješenjima i pripremljenim testnim.
-# evalX je čisti folder koji nakon preuzimanja treba preimenovati u eval i sljediti dalje upute
+# eval
+// Komentar: eval je folder koji je korišten, s nekim rješenjima i pripremljenim testnim.
+// evalX je čisti folder koji nakon preuzimanja treba preimenovati u eval i sljediti dalje upute
 
 Postupak za evaluator:
 
