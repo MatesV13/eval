@@ -1,0 +1,5 @@
+*.out linguist-detectable=false
+*.in linguist-detectable=false
+*.bat linguist-detectable=true
+*.cpp linguist-detectable=true
+*.py linguist-detectable=true
